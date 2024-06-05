@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/mohitbooraget/New_Txt_Random",
+    "repository": "https://github.com/rohit995049/USA",
     "success_url": "https://telegram.me/imendaxpublic",
     "stack": "container",
     "env": {
@@ -20,7 +20,7 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "6585732943:AAG6knKt3gvX_VGJY7ELVDn_oXT2XMRHNEQ",
+            "description": "7397883354:AAFnga6jdQYs_L__r5nW-Q8CXqW2-H0rPFw",
             "required": true
         }
     },
