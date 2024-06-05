@@ -5,13 +5,13 @@
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/imacekun/cw-dl",
+    "repository": "https://github.com/rohit995049/USA",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
         },
         {
-            "url": "https://github.com/amivin/aria2-heroku.git"
+            "url": " https://github.com/rohit995049/USA"
         },
         {
             "url": "heroku/python"
